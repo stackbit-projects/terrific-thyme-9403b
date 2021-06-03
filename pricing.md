@@ -6,19 +6,7 @@ sections:
     background: gray
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
-    pricing_plans:
-      - title: Enterprise
-        subtitle: For very large businesses
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
+    pricing_plans: []
   - section_id: faq
     type: section_faq
     background: gray
