@@ -1,6 +1,5 @@
 ---
 title: Framing Ideas
-subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
